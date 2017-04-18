@@ -1,0 +1,1 @@
+Efficient tree-structured recursive long short-term memory network implemented in Torch.  Runs on CUDA and uses the CuDNN library. Inspired by "Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks"; Socher et al., 2015.
